@@ -1,6 +1,6 @@
 # API-
 // 1. by default, we named the port 5000 ( make sure to download nodemon for easier running of the server)
-// 2. runt the ipa by writing npm start
+// 2. runt the ipa by writing npm start or node index.js 
 // 3. put the localhost either in chrome or insomnia/postman to see if it runs, (http://localhost:5000)
 // 4. after succefull start, you can then go to routes which there is one for users. (http://localhost:5000/users)
 
